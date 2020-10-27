@@ -1,3 +1,5 @@
-<h1>Ritz's Portolio</h1>
+<h1>Rome Ritz B. Daga</h1>
 
-<h4>Here I'm going to list all the activities I have done.</h4>
+<h4>4th year BSIT student at Jose Maria College</h4>
+
+<h6>Activities:</h6>
