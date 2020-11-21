@@ -6,9 +6,9 @@
   1: Twitter Sentiment Analysis
   
   2: Sentiment Analysis
-  <iframe width="1263" height="720" src="https://www.youtube.com/embed/twJiujDIlrc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="200" height="200" src="https://www.youtube.com/embed/twJiujDIlrc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   3: Christmas Sentiment Analysis
-  <iframe width="1263" height="720" src="https://www.youtube.com/embed/XbDL28k_fGw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="200" height="200" src="https://www.youtube.com/embed/XbDL28k_fGw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 <h6>Information Assurance Security Activities:</h6>
