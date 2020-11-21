@@ -4,6 +4,6 @@
 
 <h6>Data Science Activities:</h6>
 
-<br></br>
+<br>
 
 <h6>Information Assurance Security Activities:</h6>
