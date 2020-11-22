@@ -1,6 +1,6 @@
 <center><h1>Rome Ritz B. Daga</h1></center>
 <p align="center">
-  ![My Photo](images/My%20Photo.PNG "My Photo")
+  <img width="200" height="200" src="https://github.com/ritzdatu/Ritz_Portfolio/blob/main/images/My%20Photo.PNG">
 </p>
 
 <center><h6>4th year BSIT student at Jose Maria College</h6></center>
