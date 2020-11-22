@@ -1,4 +1,4 @@
-![My Photo](/images/My Photo.jpg"My Photo")
+![My Photo](https://github.com/ritzdatu/Ritz_Portfolio/blob/main/images/My%20Photo.PNG"My Photo")
 <center><h1>Rome Ritz B. Daga</h1></center>
 
 <center><h6>4th year BSIT student at Jose Maria College</h6></center>
