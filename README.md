@@ -1,6 +1,7 @@
-<h1>Rome Ritz B. Daga</h1>
+![My Photo](https://www.facebook.com/photo?fbid=1819612161391925&set=a.154195537933604)
+<center><h1>Rome Ritz B. Daga</h1></center>
 
-<h6>4th year BSIT student at Jose Maria College</h6>
+<center><h6>4th year BSIT student at Jose Maria College</h6></center>
 
 <center><h4>Data Science Activities:</h4></center>
   
