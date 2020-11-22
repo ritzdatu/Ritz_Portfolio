@@ -1,4 +1,4 @@
-![My Photo](width="200" height="200"https://github.com/ritzdatu/Ritz_Portfolio/blob/main/My%20Photo.jpg)
+![My Photo](images/My%20Photo.jpg"My Photo")
 <center><h1>Rome Ritz B. Daga</h1></center>
 
 <center><h6>4th year BSIT student at Jose Maria College</h6></center>
