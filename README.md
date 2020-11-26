@@ -10,6 +10,6 @@
 <center><h6>4th year BSIT student at Jose Maria College</h6></center>
 <center><h6>Here I will post all the activities</h6></center>
 
-[My Activites](./projects.md). 
+[My Data Science Activites](./projects.md). 
 
 
