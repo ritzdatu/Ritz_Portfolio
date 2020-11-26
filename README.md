@@ -2,9 +2,9 @@
 <br>
 <br>
 
-<p align="center">
+<div align="center">
   <img width="200" height="200" src="https://github.com/ritzdatu/Ritz_Portfolio/blob/main/images/My%20Photo.PNG">
-</p>
+</div>
 
 <center><h2>Rome Ritz B. Daga</h2></center>
 <center><h6>4th year BSIT student at Jose Maria College</h6></center>
