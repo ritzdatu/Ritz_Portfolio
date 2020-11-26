@@ -8,7 +8,7 @@
 
 <center><h2>Rome Ritz B. Daga</h2></center>
 <center><h6>4th year BSIT student at Jose Maria College</h6></center>
-<center><h6>Here I will post all the projects</h6></center>
+<center><h6>Here I will post all the activities</h6></center>
 
-[Link to another page](./projects.md).
+[My Activites](./projects.md).
 
