@@ -1,6 +1,14 @@
-<center><h1>Rome Ritz B. Daga</h1></center>
+<center><h1>Welcome to my Portfolio Page</h1></center>
+<br>
+<br>
+
 <p align="center">
-  <img width="100" height="100" src="https://github.com/ritzdatu/Ritz_Portfolio/blob/main/images/My%20Photo.PNG">
+  <img width="200" height="200" src="https://github.com/ritzdatu/Ritz_Portfolio/blob/main/images/My%20Photo.PNG">
 </p>
 
+<center><h2>Rome Ritz B. Daga</h2></center>
 <center><h6>4th year BSIT student at Jose Maria College</h6></center>
+<center><h6>Here I will post all the projects</h6></center>
+
+[Link to another page](./projects.md).
+
