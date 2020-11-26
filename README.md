@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  ![My Photo](/image/My Photo.jpg)
+  <img width="200" height="200" src="https://github.com/ritzdatu/Ritz_Portfolio/blob/main/images/My%20Photo.PNG">
 </div>
 
 <center><h2>Rome Ritz B. Daga</h2></center>
