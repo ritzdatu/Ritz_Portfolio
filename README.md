@@ -10,5 +10,6 @@
 <center><h6>4th year BSIT student at Jose Maria College</h6></center>
 <center><h6>Here I will post all the activities</h6></center>
 
-<p align="center">[My Activites](./projects.md).</p>
+[My Activites](./projects.md). 
+
 
