@@ -2,12 +2,15 @@
 <br>
 <br>
 
-<div align="center">
   <img width="200" height="200" src="https://github.com/ritzdatu/Ritz_Portfolio/blob/main/images/My%20Photo.PNG">
+
+<div width="300" float="left">
+<center><h2>Rome Ritz B. Daga</h2></center>
+<center><h6>I am a 4th year BSIT student at Jose Maria College</h6></center>
+<center><h6>I am hoping to be able to use my knowledge to build my future</h6></center>
+<center><h6>Be in business and use IT to make it easy</h6></center>
 </div>
 
-<center><h2>Rome Ritz B. Daga</h2></center>
-<center><h6>4th year BSIT student at Jose Maria College</h6></center>
 <center><h6>Here I will post all the activities</h6></center>
 <br>
 <br>
